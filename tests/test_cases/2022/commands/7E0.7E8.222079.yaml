@@ -1,0 +1,9 @@
+command_id: 7E0.7E8.222079
+test_cases:
+- expected_values:
+    QX50_CRUISE_CTRL: 0
+    QX50_ENGAGE_REVERSE_GEAR: 0
+    QX50_PARKING_BRAKE: 0
+    QX50_STARTER_BUTTON: 0
+    QX50_TRACTION_CTRL_ANTI: 0
+  response: '7E80462207900'

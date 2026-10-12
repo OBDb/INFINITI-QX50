@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22121A|din=C0,dout=81
+test_cases:
+- expected_values:
+    QX50_TCM_ISO_2_C: 0
+  response: 7E90562121A0000
+- expected_values:
+    QX50_TCM_ISO_2_C: 0.767
+  response: 7E90562121A02FF
+- expected_values:
+    QX50_TCM_ISO_2_C: 0.768
+  response: 7E90562121A0300

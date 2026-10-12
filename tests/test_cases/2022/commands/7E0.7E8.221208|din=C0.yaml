@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221208|din=C0
+test_cases:
+- expected_values:
+    QX50_FUEL_BASE_WIDTH: 0.51953
+  response: '7E8056212080428'
+- expected_values:
+    QX50_FUEL_BASE_WIDTH: 0.75
+  response: '7E8056212080600'
+- expected_values:
+    QX50_FUEL_BASE_WIDTH: 2.12451
+  response: 7E80562120810FF
+- expected_values:
+    QX50_FUEL_BASE_WIDTH: 3.64111
+  response: 7E8056212081D21

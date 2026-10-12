@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221225
+test_cases:
+- expected_values:
+    QX50_UP_OXYGEN_SENS_V: 1.49
+  response: 7E805621225012A
+- expected_values:
+    QX50_UP_OXYGEN_SENS_V: 2.555
+  response: 7E80562122501FF
+- expected_values:
+    QX50_UP_OXYGEN_SENS_V: 2.895
+  response: '7E8056212250243'

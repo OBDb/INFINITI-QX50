@@ -1,0 +1,11 @@
+command_id: 743.763.220E27|fc=1
+test_cases:
+- expected_values:
+    QX50_TP_RR_743: null
+  response: '76304620E2700'
+- expected_values:
+    QX50_TP_RR_743: 26.25
+  response: '76304620E2769'
+- expected_values:
+    QX50_TP_RR_743: 56.75
+  response: 76304620E27E3

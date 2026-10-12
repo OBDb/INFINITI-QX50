@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221207|din=C0,dout=81
+test_cases:
+- expected_values:
+    QX50_TCM_ATF_T_V: 0.75269
+  response: 7E905621207009A
+- expected_values:
+    QX50_TCM_ATF_T_V: 1.24633
+  response: 7E90562120700FF
+- expected_values:
+    QX50_TCM_ATF_T_V: 1.25122
+  response: '7E9056212070100'

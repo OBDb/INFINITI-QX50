@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221209|din=C0
+test_cases:
+- expected_values:
+    QX50_MAF: 0.97
+  response: '7E8056212090061'
+- expected_values:
+    QX50_MAF: 5.07
+  response: 7E80562120901FB
+- expected_values:
+    QX50_MAF: 5.13
+  response: '7E8056212090201'
+- expected_values:
+    QX50_MAF: 41.97
+  response: '7E8056212091065'

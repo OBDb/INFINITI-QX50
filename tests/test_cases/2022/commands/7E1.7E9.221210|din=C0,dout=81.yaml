@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.221210|din=C0,dout=81
+test_cases:
+- expected_values:
+    QX50_TCM_PULLEY_RAT: 0.3993
+  response: 7E9056212100F99
+- expected_values:
+    QX50_TCM_PULLEY_RAT: 0.8704
+  response: '7E9056212102200'
+- expected_values:
+    QX50_TCM_PULLEY_RAT: 0.9727
+  response: 7E90562121025FF
+- expected_values:
+    QX50_TCM_PULLEY_RAT: 2.61
+  response: 7E90562121065F4

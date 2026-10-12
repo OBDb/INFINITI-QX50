@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22222B
+test_cases:
+- expected_values:
+    QX50_MANUAL_OR_ASSISTED: 0
+  response: 7E80462222B00

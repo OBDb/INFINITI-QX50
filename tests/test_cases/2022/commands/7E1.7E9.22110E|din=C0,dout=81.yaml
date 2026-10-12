@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22110E|din=C0,dout=81
+test_cases:
+- expected_values:
+    QX50_TCM_LINE_P: 775
+  response: 7E90462110E1F
+- expected_values:
+    QX50_TCM_LINE_P: 6375
+  response: 7E90462110EFF

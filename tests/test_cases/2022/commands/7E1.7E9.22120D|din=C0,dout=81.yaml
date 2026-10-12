@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.22120D|din=C0,dout=81
+test_cases:
+- expected_values:
+    QX50_TCM_PRI_RPM_2: 16
+  response: 7E90562120D0010
+- expected_values:
+    QX50_TCM_PRI_RPM_2: 1022
+  response: 7E90562120D03FE
+- expected_values:
+    QX50_TCM_PRI_RPM_2: 1025
+  response: 7E90562120D0401
+- expected_values:
+    QX50_TCM_PRI_RPM_2: 3252
+  response: 7E90562120D0CB4

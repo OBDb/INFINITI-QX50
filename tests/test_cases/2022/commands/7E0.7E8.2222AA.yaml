@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.2222AA
+test_cases:
+- expected_values:
+    QX50_STARTER_WEAR_CNT: 0
+  response: |-
+    7E8100B6222AA000000
+    7E82100000000000000

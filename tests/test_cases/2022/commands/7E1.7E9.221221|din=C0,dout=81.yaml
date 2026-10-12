@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221221|din=C0,dout=81
+test_cases:
+- expected_values:
+    QX50_TCM_PRI_SOL_MON: 0.062
+  response: 7E905621221003E
+- expected_values:
+    QX50_TCM_PRI_SOL_MON: 0.214
+  response: 7E90562122100D6

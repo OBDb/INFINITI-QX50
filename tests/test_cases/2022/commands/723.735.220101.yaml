@@ -1,0 +1,11 @@
+command_id: 723.735.220101
+test_cases:
+- expected_values:
+    QX50_YAW_RATE: 0
+  response: '735056201010000'
+- expected_values:
+    QX50_YAW_RATE: -25.7
+  response: 73505620101FEFF
+- expected_values:
+    QX50_YAW_RATE: -22.9
+  response: 73505620101FF1B

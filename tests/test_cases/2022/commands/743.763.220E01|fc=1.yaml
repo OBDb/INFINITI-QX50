@@ -1,0 +1,14 @@
+command_id: 743.763.220E01|fc=1
+test_cases:
+- expected_values:
+    QX50_ODO: 52305
+  response: 76306620E0100CC51
+- expected_values:
+    QX50_ODO: 52479
+  response: 76306620E0100CCFF
+- expected_values:
+    QX50_ODO: 52480
+  response: 76306620E0100CD00
+- expected_values:
+    QX50_ODO: 59677
+  response: 76306620E0100E91D

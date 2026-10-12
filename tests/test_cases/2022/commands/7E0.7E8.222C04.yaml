@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.222C04
+test_cases:
+- expected_values:
+    QX50_GEARBOX_RAT: 1
+  response: 7E804622C0401
+- expected_values:
+    QX50_GEARBOX_RAT: 2
+  response: 7E804622C0402
+- expected_values:
+    QX50_GEARBOX_RAT: 3
+  response: 7E804622C0403
+- expected_values:
+    QX50_GEARBOX_RAT: 4
+  response: 7E804622C0404
+- expected_values:
+    QX50_GEARBOX_RAT: 5
+  response: 7E804622C0405
+- expected_values:
+    QX50_GEARBOX_RAT: 9
+  response: 7E804622C0409
+- expected_values:
+    QX50_GEARBOX_RAT: 10
+  response: 7E804622C040A
+- expected_values:
+    QX50_GEARBOX_RAT: 11
+  response: 7E804622C040B
