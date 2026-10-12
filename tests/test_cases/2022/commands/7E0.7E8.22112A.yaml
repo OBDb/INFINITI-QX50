@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22112A
+test_cases:
+- expected_values:
+    QX50_MANIFOLD_P_SENS_V: 0.7
+  response: 7E80462112A23
+- expected_values:
+    QX50_MANIFOLD_P_SENS_V: 2.94
+  response: 7E80462112A93

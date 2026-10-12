@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222026
+test_cases:
+- expected_values:
+    QX50_WIRED_BRAKE_CONTACT: 0
+  response: '7E80462202600'
+- expected_values:
+    QX50_WIRED_BRAKE_CONTACT: 1
+  response: '7E80462202601'

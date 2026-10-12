@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22110A|din=C0,dout=81
+test_cases:
+- expected_values:
+    QX50_TCM_SEC_P_RAW: 8
+  response: 7E90462110A08
+- expected_values:
+    QX50_TCM_SEC_P_RAW: 203
+  response: 7E90462110ACB

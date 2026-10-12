@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22121C|din=C0,dout=81
+test_cases:
+- expected_values:
+    QX50_TCM_SEC_SOL_C: 0.077
+  response: 7E90562121C004D
+- expected_values:
+    QX50_TCM_SEC_SOL_C: 0.767
+  response: 7E90562121C02FF
+- expected_values:
+    QX50_TCM_SEC_SOL_C: 0.768
+  response: 7E90562121C0300

@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.2103|din=C0,dout=81
+test_cases:
+- expected_values:
+    QX50_TRANS_ATF: 14865
+  response: 7E906610300003A11
+- expected_values:
+    QX50_TRANS_ATF: 14866
+  response: 7E906610300003A12
+- expected_values:
+    QX50_TRANS_ATF: 14867
+  response: 7E906610300003A13
+- expected_values:
+    QX50_TRANS_ATF: 14868
+  response: 7E906610300003A14
+- expected_values:
+    QX50_TRANS_ATF: 14869
+  response: 7E906610300003A15

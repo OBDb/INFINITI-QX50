@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22110A|din=C0
+test_cases:
+- expected_values:
+    QX50_IGN_TIM_ADVANCE: 110
+  response: 7E80462110A00

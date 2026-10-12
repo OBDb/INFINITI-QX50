@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.221215|din=C0,dout=81
+test_cases:
+- expected_values:
+    QX50_TCM_PRI_TQ: 31.3
+  response: '7E9056212150139'
+- expected_values:
+    QX50_TCM_PRI_TQ: 51.1
+  response: 7E90562121501FF
+- expected_values:
+    QX50_TCM_PRI_TQ: 51.2
+  response: '7E9056212150200'
+- expected_values:
+    QX50_TCM_PRI_TQ: -45.4
+  response: 7E905621215FE3A

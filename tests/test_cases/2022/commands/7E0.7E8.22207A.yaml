@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22207A
+test_cases:
+- expected_values:
+    QX50_DUR_RESUME_BUTTON: 0
+  response: 7E80562207A0000

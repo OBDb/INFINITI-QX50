@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22200F
+test_cases:
+- expected_values:
+    QX50_BRAKING_DETECTED: 1
+  response: 7E80462200F01
+- expected_values:
+    QX50_BRAKING_DETECTED: 2
+  response: 7E80462200F02
+- expected_values:
+    QX50_BRAKING_DETECTED: 4
+  response: 7E80462200F04

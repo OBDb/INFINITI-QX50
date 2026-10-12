@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221103|din=C0,dout=81
+test_cases:
+- expected_values:
+    QX50_VPWR_ECM: 12.48
+  response: 7E8046211039C
+- expected_values:
+    QX50_VPWR_ECM: 12.96
+  response: 7E804621103A2
+- expected_values:
+    QX50_VPWR_ECM: 14.08
+  response: 7E804621103B0
+- expected_values:
+    QX50_VPWR_ECM: 14.16
+  response: 7E804621103B1
+- expected_values:
+    QX50_VPWR_ECM: 14.24
+  response: 7E804621103B2
+- expected_values:
+    QX50_VPWR_ECM: 14.32
+  response: 7E804621103B3

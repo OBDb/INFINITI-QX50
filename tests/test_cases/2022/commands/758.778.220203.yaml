@@ -1,0 +1,11 @@
+command_id: 758.778.220203
+test_cases:
+- expected_values:
+    QX50_TP_RR: null
+  response: '7780462020300'
+- expected_values:
+    QX50_TP_RR: 28.5
+  response: '7780462020372'
+- expected_values:
+    QX50_TP_RR: 38.75
+  response: 778046202039B

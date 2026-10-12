@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.221112|din=C0,dout=81
+test_cases:
+- expected_values:
+    QX50_TCM_REQ_TQ_D: 46
+  response: 7E904621112E5
+- expected_values:
+    QX50_TCM_REQ_TQ_D: 70
+  response: 7E904621112F1
+- expected_values:
+    QX50_TCM_REQ_TQ_D: 78
+  response: 7E904621112F5
+- expected_values:
+    QX50_TCM_REQ_TQ_D: 96
+  response: 7E904621112FE
