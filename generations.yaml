@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Infiniti_QX50"
+
+generations:
+  - name: "First Generation (J50)"
+    start_year: 2014
+    end_year: 2017
+    description: "The former EX37 renamed, on the FM rear-drive platform with the 3.7 L VQ37 V6 and a seven-speed automatic; a long-wheelbase version arrived for 2016."
+  - name: "Second Generation (J55)"
+    start_year: 2019
+    end_year: 2025
+    description: "A front-drive-based crossover on Nissan's D platform, the first production car with a variable compression engine: the 2.0 L VC-Turbo with a CVT. The QX55 is its coupe derivative."
