@@ -1,4 +1,7 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E1", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "707", "rax": "727", "cmd": {"22": "0103"}, "freq": 0.1, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
     {"id": "QX50_TURN_SIGNAL_RIGHT", "path": "Control", "fmt": {          "len": 1, "max": 1, "unit": "offon" }, "name": "Right turn signal"},
